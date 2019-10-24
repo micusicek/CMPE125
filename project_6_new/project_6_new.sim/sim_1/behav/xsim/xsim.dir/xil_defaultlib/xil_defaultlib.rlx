@@ -1,0 +1,8 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/alex/project_6_new/project_6_new.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/alex/project_6_new/project_6_new.srcs/sim_1/new/tb_FIFO_queue.v,1571687726,verilog,,,,tb_FIFO_queue,,,,,,,,
+/home/alex/project_6_new/project_6_new.srcs/sim_1/new/tb_regfile.v,1571688182,verilog,,,,tb_regfile2,,,,,,,,
+/home/alex/project_6_new/project_6_new.srcs/sources_1/new/regfile.v,1571689865,verilog,,/home/alex/project_6_new/project_6_new.srcs/sim_1/new/tb_regfile.v,,regfile2,,,,,,,,

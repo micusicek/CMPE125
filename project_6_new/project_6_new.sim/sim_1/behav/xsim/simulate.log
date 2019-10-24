@@ -1,0 +1,4 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Simulation Finished
+$finish called at time : 388 ns : File "/home/alex/project_6_new/project_6_new.srcs/sim_1/new/tb_regfile.v" Line 156
